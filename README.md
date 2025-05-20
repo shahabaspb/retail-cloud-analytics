@@ -8,7 +8,7 @@ This project demonstrates a complete cloud analytics pipeline using AWS services
 - AWS Athena
 - AWS QuickSight
 - Python
-- Apache Airflow (optional)
+- Apache Airflow 
 
 ## 📁 Project Structure
 - `data/raw_sales_data.csv` - Sample sales data
